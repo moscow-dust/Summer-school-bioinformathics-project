@@ -24,11 +24,13 @@ DIA - метод был разработан достаточно давно, н
 
 ![alt text](DDA.png)
 
-![alt text](DIA Discovery mode.png)
+![alt text](DIA_Discovery_mode.png)
 
-![alt text](DIA Library mode.png)
+![alt text](DIA_Library_mode.png)
 
-Здесь иллюстрируется то, что интенсивность в данных DIA выше
+Здесь иллюстрируется то, что интенсивность в данных DIA выше, чем в DDA, а представленность групп белков не зависит от метода.
+
+Посмотреть, что делали мои коллеги в этом проекте можно [здесь](https://github.com/pgsin/BISS_2021_SIN)
 
 
 
